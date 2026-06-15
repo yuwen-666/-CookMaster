@@ -1,0 +1,17 @@
+{
+  "src": [
+    "pages/LoginPage",
+    "pages/RegisterPage",
+    "pages/IndexPage",
+    "pages/RecipeDetailPage",
+    "pages/CategoryPage",
+    "pages/IngredientPage",
+    "pages/CameraPage",
+    "pages/CommunityPage",
+    "pages/PublishRecipePage",
+    "pages/FavoritePage",
+    "pages/ProfilePage",
+    "pages/DataImportPage",
+    "pages/CreativeRecipesPage"
+  ]
+}

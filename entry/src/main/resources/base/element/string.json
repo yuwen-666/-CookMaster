@@ -1,0 +1,24 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "智能菜谱推荐助手 - 发现美食的乐趣"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "智能菜谱推荐助手，根据食材智能推荐菜谱，分享美食心得"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "菜谱推荐"
+    },
+    {
+      "name": "permission_camera_reason",
+      "value": "用于拍照识别食材，为您提供智能菜谱推荐服务"
+    },
+    {
+      "name": "permission_read_image_reason",
+      "value": "用于选择相册中的图片，发布菜谱和分享美食"
+    }
+  ]
+}

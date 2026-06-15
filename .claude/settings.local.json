@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(grep -rn \"sk-[a-zA-Z0-9]\\\\{20,\\\\}\" --include=\"*.ets\" --include=\"*.js\" --include=\"*.ts\" --include=\"*.json\" --include=\"*.json5\" .)"
+    ]
+  }
+}
